@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["khaled's"]
+  "cSpell.words": ["khaled's"],
+  "python.analysis.typeCheckingMode": "off"
 }
